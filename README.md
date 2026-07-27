@@ -1,5 +1,7 @@
 # 🇵🇰 Pakistan AI Taxation System 2026 (Tax Year 2025–2026)
 
+🌐 **Live Application Link:** [https://ai-tax-system-pakistan-202.vercel.app/](https://ai-tax-system-pakistan-202.vercel.app/)
+
 [![Live App Demo](https://img.shields.io/badge/Live%20Demo-Vercel%20Deployment-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ai-tax-system-pakistan-202.vercel.app/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.8-blue?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-19.0-61DAFB?style=for-the-badge&logo=react)](https://react.dev/)
@@ -7,8 +9,6 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-v4.0-06B6D4?style=for-the-badge&logo=tailwindcss)](https://tailwindcss.com/)
 
 An advanced, AI-driven fiscal analytics, income tax engine, and active taxpayer portal tailored specifically for Pakistan's **Tax Year 2025–2026** under the **Income Tax Ordinance 2001** and recent **Finance Act 2025/2026** mandates. 
-
-🌐 **Deployed Web Application:** [https://ai-tax-system-pakistan-202.vercel.app/](https://ai-tax-system-pakistan-202.vercel.app/)
 
 ---
 
@@ -164,13 +164,6 @@ An intelligent, context-aware chatbot powered by the **@google/genai SDK** and *
    npm run build
    npm start
    ```
-
----
-
-## 🌐 Live Application Link
-
-Access the live operational deployment here:
-👉 **[https://ai-tax-system-pakistan-202.vercel.app/](https://ai-tax-system-pakistan-202.vercel.app/)**
 
 ---
 
