@@ -1,0 +1,6 @@
+{
+  "name": "AI Tax System Pakistan 2026",
+  "description": "AI Taxation System of Pakistan (2026): Tax Slabs & Liability Calculator, FBR Structural Problems & AI Solutions, Active Taxpayer Status Checker, and AI Tax Assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
