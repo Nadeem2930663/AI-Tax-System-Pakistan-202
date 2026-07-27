@@ -47,6 +47,8 @@ The application is built around strict, professional visual standards designed t
 ### 1. 🧮 Interactive Income Tax Liability Calculator
 Computes precise monthly and annual tax obligations based on official **Tax Year 2025–2026** Finance Act slabs.
 
+![Pakistan Income Tax Calculator Screenshot](./src/assets/images/tax_calc_screenshot_1785171486365.jpg)
+
 * **Supported Tax Categories:**
   * **Salaried Individuals:** Slabs 1 through 6 with progressive rates (0% to 35% + fixed surcharges).
   * **Business & AOPs:** Non-salaried slabs up to 45%.
@@ -93,6 +95,8 @@ A diagnostics dashboard highlighting systemic bottlenecks and technical remedies
 ### 3. 🛡️ AI Risk Audit & Anomaly Profiler (Simulator)
 Simulates how modern tax authorities evaluate taxpayer risk profiles by cross-analyzing declared income against declared wealth and lifestyle signals.
 
+![AI Risk Audit Profiler Screenshot](./src/assets/images/audit_profiler_screenshot_1785171511213.jpg)
+
 * **Inputs:** Declared Annual Income, Bank Turnover, Vehicle CC, Property Purchases, Foreign Trips.
 * **Analysis Engine:** Calculates asset-to-income mismatch ratio.
 * **Outputs:**
@@ -105,6 +109,8 @@ Simulates how modern tax authorities evaluate taxpayer risk profiles by cross-an
 ### 4. 🔍 Active Taxpayer List (ATL) & WHT Penalty Checker
 Demonstrates the heavy financial penalties imposed on non-filers and non-active taxpayers across key transactions.
 
+![ATL Checker & WHT Penalty Matrix Screenshot](./src/assets/images/atl_checker_screenshot_1785171529428.jpg)
+
 * **CNIC / NTN Status Lookup:** Verify Active (Fa'al) vs Non-Active status.
 * **Real Estate WHT Savings Calculator (Sec 236K & 236C):**
   * **Active Filer Rate:** 3%
@@ -116,6 +122,8 @@ Demonstrates the heavy financial penalties imposed on non-filers and non-active 
 
 ### 5. 🤖 Gemini AI Tax Advisor Chatbot
 An intelligent, context-aware chatbot powered by the **@google/genai SDK** and **Gemini 3.6 Flash**.
+
+![Gemini AI Tax Advisor Chatbot Screenshot](./src/assets/images/ai_advisor_screenshot_1785171546684.jpg)
 
 * **Bilingual Intelligence:** Fluent in English and Urdu (`اردو`).
 * **Expertise:** Income Tax Ordinance 2001, FBR IRIS filing procedures, IT freelancer export regimes, wealth statement reconciliation, and tax planning strategies.
